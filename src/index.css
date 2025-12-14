@@ -108,7 +108,7 @@
 
 @layer utilities {
   .hover-scale {
-    @apply transition-transform duration-200 hover:scale-105 active:scale-98;
+    @apply transition-transform duration-200 hover:scale-105 active:scale-95;
   }
 
   .animate-fade-in {
